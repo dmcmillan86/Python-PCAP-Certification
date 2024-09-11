@@ -3,7 +3,7 @@ Tracking my studies to the PCAP certification exam via cbtnuggets.com course
 
 
 ### Progress Checklist:
-- [x] Introduction to Programming and Python
+- [x] [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/)
 - [ ] Python Variables and Data Types
 - [ ] Introduction to the Python Language
 - [ ] Python Operators
