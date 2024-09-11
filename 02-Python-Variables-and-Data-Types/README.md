@@ -10,3 +10,15 @@ Every value/variable has a type! its going to inform everything in your code on 
 
 # Casting Data Types
  
+Casting is simply converting a data type into another data type
+Not all Data Types can be converted into another Data Type. Such as a string can not be turned into an integer
+
+# Python Literals
+
+Literals are specified values in source code. They differentiate ambiguous data and separate code from data
+
+Boolean literals are capitalized. True and False
+String literals are between quotation marks
+
+# Putting it All Together
+
