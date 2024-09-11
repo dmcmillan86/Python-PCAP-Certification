@@ -22,7 +22,7 @@ Tracking my progress as I prepare for the PCAP certification exam using the CBT 
 ### Progress Tracker
 - **2024-09-10:** Completed [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/). 
   - Key Concepts: Basics of Python, first scripts.
-  - [Related Resources](https://www.python.org): Helpful link for understanding basic Python syntax.
+  - [Related Resources](https://www.python.org): Link to Python website.
 
 ### Milestones
 - **Milestone 1:** Complete all foundational topics (first 5 chapters).
