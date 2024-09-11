@@ -17,3 +17,20 @@ Tracking my progress as I prepare for the PCAP certification exam using the CBT 
 - [ ] [Introduction to Object-Oriented Programming with Python](13-Introduction-to-OOP-with-Python/)
 - [ ] [Advanced Object-Oriented Programming with Python](14-Advanced-OOP-with-Python/)
 - [ ] [Read and Write Files with Python](15-Read-and-Write-Files-with-Python/)
+
+
+### Progress Tracker
+- **2024-09-09:** Completed [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/). 
+  - Key Concepts: Basics of Python, first scripts.
+  - [Related Resources](https://example.com): Helpful link for understanding basic Python syntax.
+- **2024-09-10:** Started [Python Variables and Data Types](02-Python-Variables-and-Data-Types/).
+  - In Progress: Understanding data types and variables.
+  - Challenges: Confusion with mutable vs immutable types. [Review Material](https://example.com).
+- **2024-09-12:** Completed exercises on [Python Operators](04-Python-Operators/).
+  - Highlights: Mastered arithmetic and logical operators.
+  - Next Steps: Practice bitwise operators. [Extra Practice](https://example.com).
+
+### Milestones
+- **Milestone 1:** Complete all foundational topics (first 5 chapters).
+- **Milestone 2:** Master advanced functions and modules.
+- **Milestone 3:** Complete the entire course and pass the PCAP exam.
