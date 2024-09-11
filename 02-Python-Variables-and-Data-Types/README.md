@@ -20,5 +20,5 @@ Literals are specified values in source code. They differentiate ambiguous data 
 Boolean literals are capitalized. True and False
 String literals are between quotation marks
 
-# Putting it All Together
+
 
