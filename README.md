@@ -20,15 +20,9 @@ Tracking my progress as I prepare for the PCAP certification exam using the CBT 
 
 
 ### Progress Tracker
-- **2024-09-09:** Completed [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/). 
+- **2024-09-10:** Completed [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/). 
   - Key Concepts: Basics of Python, first scripts.
-  - [Related Resources](https://example.com): Helpful link for understanding basic Python syntax.
-- **2024-09-10:** Started [Python Variables and Data Types](02-Python-Variables-and-Data-Types/).
-  - In Progress: Understanding data types and variables.
-  - Challenges: Confusion with mutable vs immutable types. [Review Material](https://example.com).
-- **2024-09-12:** Completed exercises on [Python Operators](04-Python-Operators/).
-  - Highlights: Mastered arithmetic and logical operators.
-  - Next Steps: Practice bitwise operators. [Extra Practice](https://example.com).
+  - [Related Resources](https://www.python.org): Helpful link for understanding basic Python syntax.
 
 ### Milestones
 - **Milestone 1:** Complete all foundational topics (first 5 chapters).
