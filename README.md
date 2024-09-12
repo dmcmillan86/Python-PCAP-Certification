@@ -3,7 +3,7 @@ Tracking my progress as I prepare for the PCAP certification exam using the CBT 
 
 ### Progress Checklist:
 - [x] [Introduction to Programming and Python](01-Introduction-to-Programming-and-Python/)
-- [ ] [Python Variables and Data Types](02-Python-Variables-and-Data-Types/)
+- [x] [Python Variables and Data Types](02-Python-Variables-and-Data-Types/)
 - [ ] [Introduction to the Python Language](03-Introduction-to-the-Python-Language/)
 - [ ] [Python Operators](04-Python-Operators/)
 - [ ] [Basic Input and Output with Python](05-Basic-Input-and-Output-with-Python/)
