@@ -14,3 +14,15 @@ Source Code is the Raw Code in a plain text file
 Keywords are reseved words in python language
 Bracket []
 Parentheses ()
+
+# Our First Programming Techniques
+
+What is the command-line operation to run a python program - python
+code is executed in order from top
+
+# Good Programming Techniques
+
+Good practices lead to good code
+Good code is easy for computers and for humans
+One statement per line, use descriptive names and INCLUDE COMMENTS
+Reduce duplication. re-usable code is valuable
