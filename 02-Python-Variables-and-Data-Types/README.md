@@ -1,7 +1,7 @@
 # Understanding Variables
 Variables are Flexible and dynamic
 
-# Understanding Pythong Data Types
+# Understanding Python Data Types
 
 Variables can change data types anytime during the execution of the program
 
