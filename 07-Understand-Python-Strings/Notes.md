@@ -21,4 +21,6 @@ escape chars are used to id string literals vs control characters
 
 # Operators and String Functions
 
-You can concatenate, repetite, range slice, join, org, char, len and slice strings utilizing operators. 
+You can concatenate, repeat, range slice, and slice strings utilizing operators. 
+Strings have unique funcations as well in Python: upper lower, cap, split, join, ord, chr, len
+
