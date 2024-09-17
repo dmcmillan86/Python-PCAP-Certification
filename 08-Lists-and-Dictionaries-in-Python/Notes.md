@@ -23,3 +23,5 @@ List can be nested in Dictionaries and
 Dicitionaries can be nested in list
 A dictionary is like a list of key-value pairs
 
+## Working with Dctionaries
+
