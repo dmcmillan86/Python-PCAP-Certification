@@ -23,5 +23,12 @@ List can be nested in Dictionaries and
 Dicitionaries can be nested in list
 A dictionary is like a list of key-value pairs
 
-## Working with Dctionaries
+## Working with Dictionaries
 
+Iterate through dicts keys with 'for' loop
+.keys() return something like a list of keys
+.values() return something like a list of values
+.items() return something like a list of items
+you must cast to a list before you can turn these into a list
+
+.update() appends values into your dictionary
