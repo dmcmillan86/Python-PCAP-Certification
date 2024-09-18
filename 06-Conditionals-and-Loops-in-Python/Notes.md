@@ -1,27 +1,38 @@
 # Conditionals and Loops in Python
 
-When we write a script in Python remember the code is typical executed sequentially
+When writing a Python script, the code typically executes sequentially. However, control flow structures such as conditionals and loops allow for more dynamic behavior by breaking this sequential flow. These structures can create branches in the code or repeat specific sections until certain conditions are met.
 
-However, When we get into more dynamic control flow structures our code is no longer sequential. Such as if-then statements which creates two brances of code to possibly execute.
-Loops loop through a particular part of the code over and over again until the code predetermined amount of time
+## Conditional Statements
 
-Conditional statements create these branches of Code which makes a script more flexible and re-usable. In our If-then-else statement the IF uses relational operators to test the expression and if true the THEN sympbolized by a : is executed, Else ELSE is executed.
-elif is another powerhouse code that branches off code
+Conditional statements allow the script to branch into different paths based on specific conditions, making the code more flexible and reusable.
 
-# Iterating Code with While Loops
+- **If-then-else Statements**: The `if` statement uses relational operators to test an expression. If the condition evaluates to `True`, the code block following the colon (`:`) is executed. If `False`, the `else` block is executed.
+  
+- **Elif Statements**: The `elif` (else if) keyword allows for multiple conditions to be tested in sequence after the initial `if` statement. This creates multiple branches for code execution.
 
-While loops help eliminate repetitive code. Loops repeat blocks of code multiple times. The While statement uses relational operators to test an expression. A True result causes the code to execut, then return to the while. otherwise, execution skips past the loop block. At some point you do want the loop to stop or else you'll be stuck in what is called an infinite loop. 
+## Iterating Code with While Loops
 
-# Iterating Code with For Loops
+While loops allow a block of code to be executed repeatedly as long as a specified condition remains `True`.
 
-For loops require an iterable object
-The code will exectue for each value of the object
-Upon its completion code continues
+- The `while` statement tests an expression using relational operators. If the condition evaluates to `True`, the loop executes its code block and returns to the top to test the condition again. If `False`, the loop ends and the program moves to the next section of code.
 
-# Conditional and Loop Control
+- **Infinite Loops**: Care should be taken to ensure that loops are given a stopping condition. Otherwise, you risk creating an **infinite loop** where the code continues to execute indefinitely.
 
-Control Structures can be iterated or ended early by: Break, Continue, Else(looping), Pass
-Else, Executes what a loop is finished
-Break, exits a loop early and goes to end of code section
-Continue, Iterate a loop early
-pass, do nothing
+## Iterating Code with For Loops
+
+For loops require an **iterable object** (such as a list, tuple, or range). The loop executes a block of code for each value within the iterable object.
+
+- Once all the values have been processed, the loop finishes, and the program moves on to the next part of the code.
+
+## Conditional and Loop Control
+
+Control structures can be fine-tuned or interrupted early by specific control keywords:
+
+- **Break**: Exits a loop early, skipping any remaining iterations, and moves to the next section of the code.
+  
+- **Continue**: Skips the current iteration and moves directly to the next iteration of the loop.
+  
+- **Else (with Loops)**: The `else` block can be used with loops and will be executed once the loop completes all its iterations unless a `break` statement is encountered.
+  
+- **Pass**: Does nothing. It is a placeholder that is syntactically required but does not result in any operation.
+
