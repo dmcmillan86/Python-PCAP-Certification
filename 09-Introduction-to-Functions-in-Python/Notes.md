@@ -23,4 +23,12 @@ have short uncluttered syntax
 limited to single expressions
 no statements
 can be executed as defined (IIFE)
+
+# Recursive Functions
+
+Recursion is when a function invokes itself
+Similar to a loop
+can shorten syntax(sometimes a lot)
+High potential for infinite looping
+should test to see if function is open then invoke itself
  
