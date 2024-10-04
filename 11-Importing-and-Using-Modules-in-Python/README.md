@@ -15,6 +15,10 @@ Installed in one of three locations:
 
 # Using Import and Modules
 
+Modules define their own 'namespace'
+Namespace: a logical boundary in code where specific identifiers (names) are created and accessible
+Import can import an entire module or pieces of a module and can redefine the namespace name
+
 
 
 
