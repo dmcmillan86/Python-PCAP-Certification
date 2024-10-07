@@ -28,4 +28,4 @@ Tracking my progress as I prepare for the PCAP certification exam using the CBT 
 ### Milestones
 - **Milestone 1:** Complete all foundational topics (first 5 chapters).
 - **Milestone 2:** Master advanced functions and modules.
-- **Milestone 3:** Posted 10 articled to Linked In
+- **Milestone 3:** Posted 10 articles to Linked In
